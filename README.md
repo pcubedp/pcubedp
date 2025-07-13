@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Pcubed_banner.png" alt="P³ Logo" width="600" />
+  <img src="Pcubed_banner.png" alt="P³ Logo" width="650" />
 </p>
 
-<h1 align="center">Hey, I'm Parth 👋</h1>
+<h1 align="center">Hi there, I'm Parth </h1>
 
 <p align="center">
   🚀 Open-source Learner &nbsp;|&nbsp; ⚙️ DevOps & Backend Enthusiast &nbsp;|&nbsp; 🎨 Creative Developer & Digital Artist 
@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-**Currently a 1st Year (soon 2nd Year) CS undergrad @DJSCE**
+**I'm a 1st Year (soon 2nd Year) CS undergrad @DJSCE**
 
 I enjoy building just as much as breaking things down to understand how they work.
 
@@ -50,11 +50,15 @@ Outside the terminal, I’ve always leaned into visual work. From UI/UX to graph
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pcubedp&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcubedp&theme=radical" alt="GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcubedp&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
