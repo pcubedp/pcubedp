@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-**I'm a 1st Year (soon 2nd Year) CS undergrad @DJSCE**
+**1st Year (soon 2nd Year) CS undergrad @DJSCE**
 
 I enjoy building just as much as breaking things down to understand how they work.
 
