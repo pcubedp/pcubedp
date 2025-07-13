@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pcubed_banner.png" alt="P³ Logo" width="650" />
+  <img src="Pcubed_banner.png" alt="P³ Logo" width="600" />
 </p>
 
 <h1 align="center">Hey, I'm Parth 👋</h1>
@@ -16,7 +16,9 @@
 
 ### 💡 About Me
 
-I’m currently a 1st Year (soon 2nd Year) Computer Science undergrad. I enjoy building just as much as breaking things down to understand how they work.
+**Currently a 1st Year (soon 2nd Year) CS undergrad @DJSCE**
+
+I enjoy building just as much as breaking things down to understand how they work.
 
 My journey into development began on a dual-boot setup, bouncing between Linux Mint and Windows,then onto Debian, before finally settling on Arch Linux (yeah, partly for the bragging rights, but it really does feel like home).
 
@@ -55,17 +57,12 @@ Outside the terminal, I’ve always leaned into visual work. From UI/UX to graph
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcubedp&theme=radical" alt="GitHub Streaks" />
 </p>
 
----
-
-### 📬 Contact Me
-
-### Feel free to connect with me at:
 <p align="center">
-  <a href="mailto:pcubed.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-pcubed.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://in.linkedin.com/in/parth-patel-dj" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://in.linkedin.com/in/parth-patel-dj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Parth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:pcubed.dev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
