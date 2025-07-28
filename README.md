@@ -20,7 +20,7 @@
 
 I enjoy building just as much as breaking things down to understand how they work.
 
-My journey into development began on a dual-boot setup, making games in Roblox Studio using Lua and distro hopping between Linux Mint and Windows,then onto Debian, before finally settling on Arch Linux (yeah, partly for the bragging rights, but it really does feel like home).
+My journey into development began on a dual-boot setup, building games in Roblox Studio using Lua and distro hopping between Linux Mint and Windows,then onto Debian, before finally settling on Arch Linux (yeah, partly for the bragging rights, but it really does feel like home).
 
 I'm especially drawn to DevOps and Backend, and lately exploring cloud-native tools out there.
 
