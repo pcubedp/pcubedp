@@ -52,14 +52,16 @@ Outside the terminal, I’ve always leaned into visual work. From UI/UX to graph
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pcubedp&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcubedp&theme=radical" alt="GitHub Streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcubedp&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pcubedp&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcubedp&theme=radical" alt="GitHub Streaks" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/parth-patel-dj" target="_blank">
