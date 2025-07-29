@@ -64,6 +64,10 @@ Outside the terminal, I’ve always leaned into visual work. From UI/UX to graph
 </table>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcubedp&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <a href="https://in.linkedin.com/in/parth-patel-dj" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
