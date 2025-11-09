@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Parth </h1>
 
 <p align="center">
-  🚀 Open-source Learner &nbsp;|&nbsp; ⚙️ DevOps & Backend Enthusiast &nbsp;|&nbsp; 🎨 Creative Developer & Digital Artist 
+  🚀 Open-source Learner &nbsp;|&nbsp; ⚙️ DevOps & Cybersecurity Enthusiast &nbsp;|&nbsp; 🎨 Creative Developer & Digital Artist 
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I enjoy building just as much as breaking things down to understand how they work.
 
-My journey into development began on a dual-boot setup, building games in Roblox Studio using Lua along with distro hopping and ricing dope looking desktop environments.
+My journey into development began on a dual-boot setup, building scripts, distro hopping and ricing dope looking desktop environments.
 
 I'm especially drawn to DevOps and Backend, and lately exploring cloud-native tools out there.
 
